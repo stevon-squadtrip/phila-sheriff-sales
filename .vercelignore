@@ -1,0 +1,4 @@
+# Only the static site (index.html) needs to ship to Vercel.
+scripts/
+data/
+README.md
